@@ -1,5 +1,5 @@
 """
-GPT-3 Implementation as a DocumentCloud Add-on
+GPT-4 Implementation as a DocumentCloud Add-on
 """
 
 import csv
